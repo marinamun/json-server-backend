@@ -5,7 +5,7 @@
       "name": "Whiskers",
       "breed": "Domestic Shorthair",
       "description": "Whiskers, a playful Domestic Shorthair, is known for his friendly nature and distinctive short coat. He loves chasing toys and curling up on your lap during lazy afternoons.",
-      "price": "1.000",
+      "price": "1000",
       "url": "https://cdn2.thecatapi.com/images/1v7.jpg"
     },
     {
@@ -13,7 +13,7 @@
       "name": "Luna",
       "breed": "British Shorthair",
       "description": "Luna, the elegant cat, is characterized by her striking blue almond-shaped eyes and sleek, slender body. This cat is highly social and affectionate, making Luna a great companion.",
-      "price": "2.000",
+      "price": "2000",
       "url": "https://images.unsplash.com/photo-1584396888493-06386077e877?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1973&q=80"
     },
     {
@@ -21,7 +21,7 @@
       "name": "Oliver",
       "breed": "Maine Coon",
       "description": "Oliver, the majestic Maine Coon, is one of the largest domesticated cat breeds. With tufted ears, a bushy tail, and a friendly disposition, Maine Coons are often referred to as gentle giants",
-      "price": "1.050",
+      "price": "1050",
       "url": "https://images.unsplash.com/photo-1552944249-481c99e23e97?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
     },
     {
@@ -29,7 +29,7 @@
       "name": "Bella",
       "breed": "Persian",
       "description": "Bella, the Persian cat, boasts a luxurious, long, and silky coat. Persian cats are known for their sweet temperament and calm demeanor, making them perfect indoor companions.",
-      "price": "2.050",
+      "price": "2050",
       "url": "https://images.unsplash.com/photo-1614538899770-96fbb708eff8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2041&q=80"
     },
     {
@@ -37,7 +37,7 @@
       "name": "Simba",
       "breed": "Bengal",
       "description": "Simba, the adventurous Bengal cat, has a distinctive coat resembling that of a wild leopard. Bengals are highly active and playful, often enjoying climbing and exploring their surroundings.",
-      "price": "2.000",
+      "price": "2000",
       "url": "https://images.unsplash.com/photo-1496806195556-91bdded94209?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
     },
     {
@@ -45,7 +45,7 @@
       "name": "Belfi",
       "breed": "Ragdoll",
       "description": "Belfi, the gentle Ragdoll, is aptly named for her tendency to go limp when picked up, resembling a child's ragdoll toy. Ragdolls are affectionate, loving cats, often following their owners around like loyal companions.",
-      "price": "1.400",
+      "price": "1400",
       "url": "https://images.unsplash.com/photo-1568470010257-111aa304d53b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2068&q=80"
     },
     {
@@ -53,7 +53,7 @@
       "name": "Gizmo",
       "breed": "Sphynx",
       "description": "Gizmo, the unique Sphynx cat, is hairless, with a wrinkled skin that feels warm and soft to the touch. Despite their lack of fur, Sphynx cats are known for their affectionate and outgoing personalities.",
-      "price": "1.500",
+      "price": "1500",
       "url": "https://images.unsplash.com/photo-1517178271410-0b2a6480952f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1914&q=80"
     },
     {
@@ -61,7 +61,7 @@
       "name": "Jasmine",
       "breed": "Siamese",
       "description": "Meet Jasmine, the Siamese cat with an enchanting personality and captivating azure eyes.",
-      "price": "2.900",
+      "price": "2900",
       "url": "https://images.unsplash.com/photo-1568309386325-ef86f13ac533?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
     },
     {
@@ -69,7 +69,7 @@
       "name": "Cleo",
       "breed": "Abyssinian",
       "description": "Cleo, the curious Abyssinian cat, has a ticked coat resembling that of a wild jungle cat. Abyssinians are highly active, intelligent, and friendly, often seeking out new adventures and climbing to high places.",
-      "price": "4.000",
+      "price": "4000",
       "url": "https://images.unsplash.com/photo-1635787744654-df73d7198472?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2012&q=80"
     },
     {
@@ -77,7 +77,7 @@
       "name": "Leo",
       "breed": "Nebelung",
       "description": "Leo, the Nebelung cat, is a vision of elegance and grace. With her long, flowing silver-blue coat that shimmers like moonlight, she embodies the ethereal beauty of her breed",
-      "price": "2.500",
+      "price": "2500",
       "url": "https://images.unsplash.com/photo-1511275539165-cc46b1ee89bf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
     }
   ]
